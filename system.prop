@@ -1,1 +1,2 @@
 ro.debuggable=1
+ro.secure=0
